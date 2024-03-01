@@ -10,3 +10,7 @@ const globalconst = "I am a global constant";
     const blockConst = "I'm a block-scoped const";
 
 }
+
+console.log(blockVar);
+console.log(blockLet);
+console.log(blockConst);
