@@ -1,4 +1,4 @@
-const breakFastMenu = ['Pancakes', 'Eggs Benedict', 'Oatmeal', 'Frittata'];
+const breakFastMenu = ['Pancakes-12$', 'Eggs Benedict-12$', 'Oatmeal-12$', 'Frittata-12$'];
 const mainCourseMenu = ['Steak', 'Pasta', 'Burger', 'Salmon'];
 const dessertMenu = ['Cake', 'Ice Cream', 'Pudding', 'Fruit Salad'];
 
